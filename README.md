@@ -1,8 +1,47 @@
-- 👋 Hi, I’m @krishnaduttPanchagnula
-- 👀 I’m interested in Data Analytics ( Especially in spatial and climatic data) and Simulation.
-- 🌱 I’m currently honing my skills in Deep Learning.
-- 💞️ I’m looking to collaborate on spatial data exploration ,climate modelling and behavior modelling  .
-- 📫 How to reach me  email : krishnadutt123@gmail.com 
+# 👋 Hi There, I'm krishnaduttPanchagnula
+I am currently working as Data Science Engineer with fruitpunch.ai. I am currenlty working on satellite imagergy to solve spatial questions and deploying them to production, at scale. I'm open to collaborate on interesting projects specially in Simulation and spatial domains.
+
+# 🌱 Currently working on :
+  1.Using Deep Learning methods to Estimate the biomass of forests from satellite Imagery 
+  
+   <n>2. Front - end app to upload the files to s3 bucket <n>
+# After my Work , you can find me 
+ 1.Taking a ride on my bike.
+  
+  <n>2. Exploring another culture from my kitchen <n>
+    
+  <n>3. Reading Fyodor Dostoevsky or listening to Navel ravikant , Minimalist etc podcasts.  <n>
+    
+# Tools and Tech stack
+
+Here are is the list of Technologies that i am adept at 
+
+
+**Programming and Database**
+
+<img title="Python" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+|---|---|
+
+**Libraries and Frameworks**
+<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png"> 
+|---|---|---|---|
+
+
+  
+**Cloud**
+
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
+
+**Tools**
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">|<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">|<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
+|---|---|---|---|---|
+
+# 📫 How to reach me 
+Email : krishnadutt123@gmail.com 
+    
+Linkedin : https://www.linkedin.com/in/krishnadutt/
+
+
 
 <!---
 krishnaduttPanchagnula/krishnaduttPanchagnula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
