@@ -2,9 +2,9 @@
 I am as DEVOPS engineer with Qentelli. I am working on building scalable infrastructure in AWS environment using Infrastructure as code(IaC) tools such as terraform etc. In the free time, i engage in workeing on ML fun projects and writing articles. Previously i have worked as Data Science Engineer, working on satellite imagergy to solve spatial questions and deploying them to production, at scale. I'm open to collaborate on interesting projects specially in Simulation and spatial domains.
 
 # 🌱 Currently working on :
-  1.Using Deep Learning methods to Estimate the biomass of forests from satellite Imagery 
+  1.Creating and deploying scalable infrastructure of microservices in Kubernetes. 
   
-   <n>2. Front - end app to upload the files to s3 bucket <n>
+   <n>2. Using terraform to create automatic monitoring systems in AWS , using cloudwatch. <n>
 # After my Work , you can find me 
  1.Taking a ride on my bike.
   
