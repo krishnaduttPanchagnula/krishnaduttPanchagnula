@@ -1,5 +1,5 @@
 # 👋 Hi There, I'm krishnaduttPanchagnula
-I am currently working as Data Science Engineer with fruitpunch.ai. I am currenlty working on satellite imagergy to solve spatial questions and deploying them to production, at scale. I'm open to collaborate on interesting projects specially in Simulation and spatial domains.
+I am as DEVOPS engineer with Qentelli. I am working on building scalable infrastructure in AWS environment using Infrastructure as code(IaC) tools such as terraform etc. In the free time, i engage in workeing on ML fun projects and writing articles. Previously i have worked as Data Science Engineer, working on satellite imagergy to solve spatial questions and deploying them to production, at scale. I'm open to collaborate on interesting projects specially in Simulation and spatial domains.
 
 # 🌱 Currently working on :
   1.Using Deep Learning methods to Estimate the biomass of forests from satellite Imagery 
