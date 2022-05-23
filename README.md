@@ -37,7 +37,7 @@ Here are is the list of Technologies that i am adept at
 |---|---|---|---|---|
 
 # 📫 How to reach me 
-Email : krishnadutt123@gmail.com 
+Email    : krishnadutt123@gmail.com 
     
 Linkedin : https://www.linkedin.com/in/krishnadutt/
     
