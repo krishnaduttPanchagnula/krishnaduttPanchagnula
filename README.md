@@ -1,10 +1,10 @@
 # 👋 Hi There, I'm krishnadutt Panchagnula
-I am as DEVOPS engineer with Qentelli. I am working on building scalable infrastructure in AWS environment using Infrastructure as code(IaC) tools such as terraform etc. In the free time, i engage in working on ML fun projects and writing articles. Previously i have worked as Data Science Engineer, utilzing satellite imagergy to solve spatial questions and deploying them to production, at scale. I'm open to collaborate on interesting projects specially Infrastructure and Data science domain.
+I work as DEVOPS Cloud engineer with Qentelli. I am working on building scalable infrastructure in AWS environment using Infrastructure as code(IaC) tools such as terraform etc. In the free time, i engage in working on ML fun projects and writing articles. Previously i have worked as Data Science Engineer, utilzing satellite imagergy to solve spatial questions. I'm open to collaborate on interesting projects specially Infrastructure and Data science domain.
 
 # 🌱 Currently working on :
   1.Creating and deploying scalable infrastructure of microservices in Kubernetes. 
   
-   <n>2. Using terraform to create automatic monitoring systems in AWS , using cloudwatch. <n>
+   <n>2. Building Monitoring systems in AWS, using IAC tools like terraform. <n>
 # After my Work , you can find me 
  1.Taking a ride on my bike.
   
