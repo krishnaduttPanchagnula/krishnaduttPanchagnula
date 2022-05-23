@@ -40,6 +40,8 @@ Here are is the list of Technologies that i am adept at
 Email : krishnadutt123@gmail.com 
     
 Linkedin : https://www.linkedin.com/in/krishnadutt/
+    
+Medium   : https://medium.com/@krishnaduttpanchagnula
 
 
 
