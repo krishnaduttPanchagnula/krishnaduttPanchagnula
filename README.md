@@ -19,7 +19,7 @@ Here are is the list of Technologies that i am adept at
 
 **Programming and Database**
 
-<img title="Python" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img title="Golang" alt="Golang" height="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">|<img title="Javascript" alt="Javascript" height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">|<img title="Postgresql" alt="Postgresql"height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+<img title="Python" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img title="Golang" alt="Golang" height="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">|<img title="Javascript" alt="Javascript" height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">|<img title="Postgresql" alt="Postgresql"height="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
 |---|---|---|---|
 
 **Libraries and Frameworks**
