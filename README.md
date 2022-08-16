@@ -19,22 +19,27 @@ Here are is the list of Technologies that i am adept at
 
 **Programming and Database**
 
-<img title="Python" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img title="Golang" alt="Golang" height="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">|<img title="Javascript" alt="Javascript" height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> | <img title="Postgresql" alt="Postgresql" height="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
-|---|---|---|---|
+<img title="Python" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img title="Golang" alt="Golang" height="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">|<img title="Javascript" alt="Javascript" height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> |<img title="Bash" alt="Bash" height="50" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">| <img title="Postgresql" alt="Postgresql" height="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+|---|---|---|---|---|
+    
+**Cloud and Devops**
 
+<img title="Amazon Web Services" alt="AWS" height="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">|<img title="Terraform" alt="Terraform" height="50" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg">|<img title="CircleCI" alt="CircleCI" height="50" src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain-wordmark.svg">|<img title="Jenkins" alt="Jenkins" height="50" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
+|---|---|---|---|
+    
+**Container Technologies**
+ <img title="Docker" alt="Docker" height="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">|<img title="Kubernetes" alt="Kubernetes" height="50" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
+|---|---|
+  
+    
 **Libraries and Frameworks**
 <img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png"> 
 |---|---|---|---|
 
-
   
-**Cloud**
-
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
-
 **Tools**
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">|<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">|<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-|---|---|---|---|---|
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">|<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
+|---|---|---|---|
 
 # 📫 How to reach me 
     
