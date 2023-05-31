@@ -45,8 +45,8 @@ Here are is the list of Technologies that i am adept at
 ## 📈 Stats
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krishnaduttPanchagnula&show_icons=true&count_private=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaduttPanchagnula&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krishnaduttPanchagnula&show_icons=true&count_private=true&theme=merko" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaduttPanchagnula&theme=merko" />
 </p>
 
 # 📫 How to reach me 
