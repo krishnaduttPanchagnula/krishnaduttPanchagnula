@@ -10,7 +10,7 @@ I work as a DEVOPS Cloud engineer with Qentelli. I am working on building scalab
   
   <n>2. Exploring another culture from my kitchen <n>
     
-  <n>3. Reading Fyodor Dostoevsky or listening to Navel ravikant , Minimalist etc podcasts.  <n>
+  <n>3. Reading Fyodor Dostoevsky, sceneca or listening to Navel ravikant , Minimalist etc podcasts.  <n>
     
 # Tools and Tech stack
 
