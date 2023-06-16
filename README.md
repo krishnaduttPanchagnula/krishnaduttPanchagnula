@@ -5,6 +5,7 @@ I work as a DEVOPS Cloud engineer with Qentelli. I am working on building scalab
   1.Creating and deploying scalable infrastructure of microservices in Kubernetes. 
   
    <n>2. Building Monitoring systems in AWS, using IAC tools like terraform. <n>
+   3. Buidilng NFT setups on ethereum. 
 # After my Work , you can find me 
  1.Taking a ride on my bike.
   
