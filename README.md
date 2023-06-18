@@ -54,6 +54,11 @@ Here are is the list of Technologies that i am adept at
 
 </p>
 
+![](https://github-profile-trophy.vercel.app/?username=fatelei&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=fatelei&icon=0&color=1)](https://visitcount.itsvg.in)
+
 # 📫 How to reach me 
     
 Email    : krishnadutt123@gmail.com 
