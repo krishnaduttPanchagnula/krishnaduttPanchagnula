@@ -54,10 +54,9 @@ Here are is the list of Technologies that i am adept at
 
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=krishnaduttPanchagnula&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=krishnaduttPanchagnula&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=krishnaduttpanchagnula&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 # 📫 How to reach me 
     
