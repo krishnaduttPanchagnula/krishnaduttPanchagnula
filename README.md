@@ -55,11 +55,11 @@ Here are is the list of Technologies that i am adept at
 <p align="center">
 	
 
- 
+ [![](https://visitcount.itsvg.in/api?id=krishnaduttPanchagnula&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 </p>
 
 
-[![](https://visitcount.itsvg.in/api?id=krishnaduttPanchagnula&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 # 📫 How to reach me 
     
