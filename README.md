@@ -47,11 +47,17 @@ Here are is the list of Technologies that i am adept at
     
     
 ## 📈 Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=krishnaduttPanchagnula&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krishnaduttPanchagnula&layout=compact&langs_count=8&theme=algolia"/>
+ </p>
+<p> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaduttPanchagnula&theme=radical" />
+</p>
 <p align="center">
 	
 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaduttPanchagnula&theme=radical" />
-
+ 
 </p>
 
 
