@@ -52,7 +52,7 @@ Here are is the list of Technologies that i am adept at
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=krishnaduttPanchagnula&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaduttPanchagnula&theme=radical" />
 </p>
-<p align="center">
+<p align="left">
 	
 
  [![](https://visitcount.itsvg.in/api?id=krishnaduttPanchagnula&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
