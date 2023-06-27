@@ -7,7 +7,7 @@ I work as a DEVOPS Cloud engineer with Qentelli. I am working on building scalab
   
 <n>2. Building Monitoring systems in AWS, using IAC tools like terraform.
    
-<n>3. Buidilng NFT setups on ethereum.
+<n>3. Buidilng Private blockchain on ethereum.
     
 # After my Work , you can find me 
  1.Taking a ride on my bike.
