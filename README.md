@@ -53,7 +53,9 @@ Here are is the list of Technologies that i am adept at
 <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaduttPanchagnula&theme=radical" />
 </p>
 <p align="left">
-	
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=krishnaduttPanchagnula)](https://git.io/streak-stats)	
 
  [![](https://visitcount.itsvg.in/api?id=krishnaduttPanchagnula&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
