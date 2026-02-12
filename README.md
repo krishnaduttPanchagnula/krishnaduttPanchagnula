@@ -1,51 +1,109 @@
-# 👋 Hi There, I'm krishnadutt Panchagnula
-I work as a DEVOPS Cloud engineer with Qentelli. I am working on building scalable infrastructure in AWS environment using Infrastructure as code(IaC) tools such as terraform etc. In the free time, i engage in working on ML fun projects and writing articles. Previously i have worked as Data Science Engineer, utilzing satellite imagergy to solve spatial questions. I'm open to collaborate on interesting projects specially Infrastructure and Data science domain.
-
-# 🌱 Currently working on :
-
-<n>1.Creating and deploying scalable infrastructure of microservices in Kubernetes.
-  
-<n>2. Building Monitoring systems in AWS, using IAC tools like terraform.
-   
-<n>3. Buidilng Private blockchain on ethereum.
-    
-# After my Work , you can find me 
- 1.Taking a ride on my bike.
-  
-  <n>2. Exploring another culture from my kitchen <n>
-    
-  <n>3. Reading Fyodor Dostoevsky, sceneca or listening to Navel ravikant , Minimalist etc podcasts.  <n>
-    
-# Tools and Tech stack
-
-Here are is the list of Technologies that i am adept at 
 
 
-**Programming and Database**
+# 👋 Hi, I’m Krishnadutt Panchagnula
 
-<img title="Python" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img title="Golang" alt="Golang" height="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">|<img title="Javascript" alt="Javascript" height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> |<img title="Bash" alt="Bash" height="50" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">| <img title="Postgresql" alt="Postgresql" height="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
-|---|---|---|---|---|
-    
-**Cloud and Devops**
+I am a senior Cloud and Platform Engineering leader with 4.5+ years of experience designing, scaling, and governing cloud-native platforms across AWS and GCP. My work sits at the intersection of Platform Engineering, DevOps, SRE, DevSecOps, and FinOps, with a strong bias toward operational excellence, developer productivity, and business outcomes.
 
-<img title="Amazon Web Services" alt="AWS" height="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">|<img title="Terraform" alt="Terraform" height="50" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg">|<img title="CircleCI" alt="CircleCI" height="50" src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain-wordmark.svg">|<img title="Jenkins" alt="Jenkins" height="50" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
-|---|---|---|---|
-    
-**Container Technologies**
- <img title="Docker" alt="Docker" height="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">|<img title="Kubernetes" alt="Kubernetes" height="50" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
-|---|---|
-  
-    
-**Libraries and Frameworks**
-<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png"> 
-|---|---|---|---|
+## 🚀 What I Do
 
-  
-**Tools**
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">|<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-|---|---|---|---|
-    
-    
+- Architect and lead large‑scale, multi‑region **Cloud Platform** and **Kubernetes** infrastructure (EKS, GKE, Rancher) using **Infrastructure as Code** (Terraform, CloudFormation, Serverless).  
+- Drive **DevSecOps** and **Policy‑as‑Code** practices with Snyk, Wiz, OPA/Rego, Trivy and hardened CI/CD pipelines (GitHub Actions, Jenkins, GitLab, CircleCI, Buildkite).  
+- Lead **Platform Engineering** and **SRE** efforts: reliability, incident management, SLIs/SLOs, MTTR/MTTD reduction, disaster recovery and business continuity.  
+- Own **FinOps** and cloud cost optimization using Kubecost and AWS Optimization Hub (rightsizing, autoscaling, Karpenter, capacity planning) for large Kubernetes clusters and multi‑account setups.  
+- Improve **Developer Experience** by building internal developer platforms, Backstage‑based software catalogs, Golang CLIs and Homebrew tooling that standardize golden paths and speed up onboarding.  
+
+
+
+
+## 🌱 Currently Focused On
+
+- Designing opinionated, secure **internal developer platforms** for product teams using Kubernetes, GitOps and self‑service workflows.  
+- Standardizing **platform architecture** (networking, security, observability, CI/CD) across multi‑cloud and multi‑account environments.  
+- Scaling **Kubernetes** clusters with Karpenter, Keda and autoscaling strategies across thousands of pods while keeping costs optimized.  
+- Evolving **observability** stacks (ELK/EFK, Prometheus, Grafana, Datadog, New Relic, CloudWatch, Opsgenie) to support proactive incident response and strong SLOs.  
+- Applying **chaos engineering**, reliability patterns and well‑architected principles to critical services.  
+
+
+
+## 🛠 Tech I Work With
+
+### Programming & Databases
+
+<p align="left">
+  <img title="Python" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+  <img title="Golang" alt="Golang" height="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" />
+  <img title="JavaScript" alt="JavaScript" height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+  <img title="Bash" alt="Bash" height="50" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />
+  <img title="PostgreSQL" alt="PostgreSQL" height="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" />
+</p>
+
+- Languages: Go (Golang), Python, Bash, Groovy, SQL  
+- Databases: PostgreSQL, MySQL, Snowflake, MariaDB, Mysql
+
+
+
+### Cloud & DevOps
+
+<p align="left">
+  <img title="Amazon Web Services" alt="AWS" height="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img title="Google Cloud Platform" alt="GCP" height="50" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" />
+  <img title="Terraform" alt="Terraform" height="50" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" />
+  <img title="Jenkins" alt="Jenkins" height="50" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" />
+  <img title="CircleCI" alt="CircleCI" height="50" src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain-wordmark.svg" />
+</p>
+
+- Cloud: AWS, GCP, Serverless  
+- IaC & Config: Terraform, CloudFormation, Serverless Framework, Chef, Atlantis, External Secrets  
+- CI/CD: GitHub Actions, Jenkins, Argo CD, GitLab CI, CircleCI, Buildkite  
+
+
+
+### Containers & Kubernetes
+
+<p align="left">
+  <img title="Docker" alt="Docker" height="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+  <img title="Kubernetes" alt="Kubernetes" height="50" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
+  <img title="Helm" alt="Helm" height="50" src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" />
+</p>
+
+- Kubernetes: EKS, GKE, Rancher  
+- Tooling: Docker, Helm, Kustomize, Karpenter, Keda, Spinnaker  
+
+
+
+### Security, DevSecOps & FinOps
+
+<p align="left">
+  <img title="Trivy" alt="Trivy" height="40" src="https://raw.githubusercontent.com/aquasecurity/trivy/main/assets/logo.png" />
+</p>
+
+- DevSecOps / Policy as Code: Wiz, Snyk, Veza, CrowdStrike, OPA/Rego, Trivy  
+- FinOps: Kubecost, AWS Cost Optimization Hub, rightsizing, capacity management  
+
+
+
+### Observability & Data
+
+<p align="left">
+  <img title="Elastic" alt="Elasticsearch" height="40" src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" />
+  <img title="Prometheus" alt="Prometheus" height="40" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" />
+  <img title="Grafana" alt="Grafana" height="40" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" />
+</p>
+
+- Observability: ELK/EFK, Prometheus, Grafana, Datadog, New Relic, CloudWatch, Opsgenie, Fluent Bit  
+- Data & ML: Kafka, PySpark, MLflow, Airflow, Delta Lake  
+
+
+
+## ✍️ Writing, Open Source & Interests
+
+I write about **Cloud, DevOps, Platform Engineering, Security and FinOps** on Medium and contribute to open‑source tooling around Terraform, Kubernetes and observability. I’ve also worked on blockchain (private Ethereum NFT platform) and ML projects in urban climate and spatial data.
+
+- Medium: https://medium.com/@krishnaduttpanchagnula
+- Portfolio: https://krishnaduttpanchagnula.github.io  
+
+
+
 ## 📈 Stats
 
 <p align="left">
@@ -63,17 +121,11 @@ Here are is the list of Technologies that i am adept at
 
 
 
-# 📫 How to reach me 
-    
-Email    : krishnadutt123@gmail.com 
-    
-Linkedin : https://www.linkedin.com/in/krishnadutt/
-    
-Medium   : https://medium.com/@krishnaduttpanchagnula
+## 📫 How to Reach Me
 
+- Email: [krishnadutt123@gmail.com](mailto:krishnadutt123@gmail.com)  
+- LinkedIn: [https://www.linkedin.com/in/krishnadutt/](https://www.linkedin.com/in/krishnadutt/)  
+- GitHub: [https://github.com/krishnaduttPanchagnula](https://github.com/krishnaduttPanchagnula)  
+- Medium: [https://medium.com/@krishnaduttpanchagnula](https://medium.com/@krishnaduttpanchagnula)  
 
-
-<!---
-krishnaduttPanchagnula/krishnaduttPanchagnula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+***
